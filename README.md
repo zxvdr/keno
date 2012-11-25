@@ -1,0 +1,4 @@
+keno
+====
+
+keno odds
